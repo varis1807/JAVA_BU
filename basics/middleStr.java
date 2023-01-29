@@ -1,4 +1,4 @@
-package arrays;
+package basics;
 import java.util.*;
 
 public class middleStr {
